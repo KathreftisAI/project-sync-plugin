@@ -10,8 +10,9 @@ Redmine Version: v3.4.6
 
 Steps to install plugin:
 1) Copy zip file in plugins folder and extract it.
-2) Go to plugin page. Install and enable "Redmine Sync" plugin
-3) Click on title "Redmine Sync".
-4) Fill the form and update it.
-5) Done.
+2) Rename plugin directory to "redminesync".
+3) Go to plugin page. Install and enable "Redmine Sync" plugin
+4) Click on title "Redmine Sync".
+5) Fill the form and update it.
+6) Done.
 
